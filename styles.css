@@ -1,0 +1,20 @@
+body {
+  color: blanchedalmond;
+background: linear-gradient(rgb(113, 113, 219), purple);
+background-repeat:no-repeat;
+min-height:100vh;
+}
+
+h1,h2 {
+  text-align: center;
+}
+ul {
+  margin-right:auto;
+  margin-left:auto;
+  max-width: 50%;
+}
+p{
+  max-width:50%;
+  margin-right:auto;
+  margin-left:auto;
+}
